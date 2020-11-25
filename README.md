@@ -1,5 +1,5 @@
 # Notif-Weather
-Un script Python permettant à ma distribution Linux de m'informer de la météo actuelle
+Un script Python permettant de m'informer de la météo actuelle
 
 ## Technologies utilisées
 Python & beautiful soup
