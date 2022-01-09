@@ -1,5 +1,5 @@
 # Notif-Weather
-Un script Python permettant de m'informer de la météo actuelle
+:cloud: Un script Python permettant de m'informer de la météo actuelle
 
 ## Technologies utilisées
 Python & beautiful soup
